@@ -73,7 +73,10 @@ Memperbaiki tipografi dan jarak antar elemen agar tampilan lebih rapi dan nyaman
 12. finalize high-fidelity UI prototype:
 Menyempurnakan seluruh desain menjadi prototype high-fidelity yang siap untuk evaluasi dan pengujian usability.
 
-
+Gian Ivander (123140040)
+Fokus: Alur Navigasi & Struktur Halaman
+1. setup main navigation flow
+Menyusun alur navigasi utama aplikasi dari halaman awal hingga dashboard.
 
 
 
