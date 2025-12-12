@@ -9,3 +9,8 @@ Fitur Utama Aplikasi
 1. Halaman Login & Register
 Memungkinkan pengguna untuk membuat akun baru dan masuk ke aplikasi dengan sistem autentikasi yang sederhana dan mudah dipahami.
 
+2. Splash Screen & Onboarding
+Menampilkan identitas aplikasi serta pengenalan singkat fitur utama D’LINE sebelum pengguna masuk ke halaman utama.
+
+
+
