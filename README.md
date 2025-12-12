@@ -22,18 +22,22 @@ Menampilkan ringkasan aktivitas pengguna, termasuk daftar tugas yang sedang berj
    3.   Menghapus tugas
    4.   Menentukan prioritas dan tenggat waktu
 
-  5. Reminder System
+  5. Reminder System:
 Sistem pengingat otomatis yang membantu pengguna agar tidak melewatkan tugas penting sesuai waktu yang telah ditentukan.
 
-6. Kalender & Jadwal
+6. Kalender & Jadwal:
 Menampilkan tugas dalam bentuk kalender untuk memudahkan pengguna melihat jadwal aktivitas secara keseluruhan.
 
-7. Detail Tugas
+7. Detail Tugas:
    Menampilkan informasi lengkap terkait tugas, seperti judul, deskripsi, tanggal, waktu, dan status tugas.
 
-8. Status & Progress Tugas
+8. Status & Progress Tugas:
    Menandai tugas sebagai selesai atau belum selesai untuk membantu pengguna memantau progres aktivitas.
-10. Status & Progress Tugas
+
+9. Navigasi Bottom Navbar:
+   Menggunakan bottom navigation bar untuk mempermudah perpindahan antar halaman utama aplikasi.
+   
+11. Status & Progress Tugas:
    Menandai tugas sebagai selesai atau belum selesai untuk membantu pengguna memantau progres aktivitas.
 
 
