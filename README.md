@@ -79,7 +79,8 @@ Fokus: Alur Navigasi & Struktur Halaman
 Menyusun alur navigasi utama aplikasi dari halaman awal hingga dashboard.
 2. connect login to dashboard
 Menghubungkan halaman login ke dashboard setelah pengguna berhasil masuk.
-
+3. implement bottom navbar routing
+Mengatur perpindahan halaman melalui bottom navigation bar.
 
 
 
