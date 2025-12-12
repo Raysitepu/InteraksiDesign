@@ -1,9 +1,9 @@
 Tugas-Besar-Desain-Interaksi-Kelompok-13
 Nama Anggota:
-1.Gian Ivander (123140040)
+1. Gian Ivander (123140040)
 2. Nahli Saud Ramdani (123140049)
-3. 4. Muhammad Dzaky (123140039)
-5. Ray Regan Sitepu (123140047)
+3. Muhammad Dzaky (123140039)
+4. Ray Regan Sitepu (123140047)
 
 Fitur Utama Aplikasi
 1. Halaman Login & Register:
@@ -21,7 +21,16 @@ Menampilkan ringkasan aktivitas pengguna, termasuk daftar tugas yang sedang berj
    2.   Mengedit tugas
    3.   Menghapus tugas
    4.   Menentukan prioritas dan tenggat waktu
-  
+
+  5. Reminder System
+Sistem pengingat otomatis yang membantu pengguna agar tidak melewatkan tugas penting sesuai waktu yang telah ditentukan.
+
+6. Kalender & Jadwal
+Menampilkan tugas dalam bentuk kalender untuk memudahkan pengguna melihat jadwal aktivitas secara keseluruhan.
+
+7. Detail Tugas
+   Menampilkan informasi lengkap terkait tugas, seperti judul, deskripsi, tanggal, waktu, dan status tugas.
+
 
 
 
