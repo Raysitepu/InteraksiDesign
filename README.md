@@ -1,6 +1,8 @@
 Tugas-Besar-Desain-Interaksi-Kelompok-13
-Link Figma: https://s.itera.id/wPbnTs
-Lin Prototype: https://s.itera.id/RBZ5Su
+
+Link Figma: https://s.itera.id/wPbnTs <br>
+Link Prototype: https://s.itera.id/RBZ5Su
+
 Nama Anggota:
 1. Gian Ivander (123140040)
 2. Nahli Saud Ramdani (123140049)
