@@ -1,6 +1,6 @@
 Tugas-Besar-Desain-Interaksi-Kelompok-13
-Link Figma: https://s.itera.id/wPbnTs
-Lin Prototype: https://s.itera.id/RBZ5Su
+Link Figma: https://s.itera.id/wPbnTs 
+Link Prototype: https://s.itera.id/RBZ5Su
 Nama Anggota:
 1. Gian Ivander (123140040)
 2. Nahli Saud Ramdani (123140049)
@@ -24,7 +24,7 @@ Menampilkan ringkasan aktivitas pengguna, termasuk daftar tugas yang sedang berj
    3.   Menghapus tugas
    4.   Menentukan prioritas dan tenggat waktu
 
-  5. Reminder System:
+5. Reminder System:
 Sistem pengingat otomatis yang membantu pengguna agar tidak melewatkan tugas penting sesuai waktu yang telah ditentukan.
 
 6. Kalender & Jadwal:
@@ -39,12 +39,12 @@ Menampilkan tugas dalam bentuk kalender untuk memudahkan pengguna melihat jadwal
 9. Navigasi Bottom Navbar:
    Menggunakan bottom navigation bar untuk mempermudah perpindahan antar halaman utama aplikasi.
    
-11. Status & Progress Tugas:
+10. Status & Progress Tugas:
    Menandai tugas sebagai selesai atau belum selesai untuk membantu pengguna memantau progres aktivitas.
 
 
-Penjelasan Detail Kinerja Pembuatan Aplikasi D'LINE
-Nahli Saud Ramdani (123140049) \n
+Penjelasan Detail Kinerja Pembuatan Aplikasi D'LINE 
+Nahli Saud Ramdani (123140049)
 Fokus: UI/UX Design & High-Fidelity Prototype
 1. init project structure and repository:
 pembuatan struktur awal proyek, termasuk folder desain dan file dasar sebagai pondasi pengembangan aplikasi D’LINE.
