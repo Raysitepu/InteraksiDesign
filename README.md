@@ -12,9 +12,16 @@ Memungkinkan pengguna untuk membuat akun baru dan masuk ke aplikasi dengan siste
 2. Splash Screen & Onboarding:
 Menampilkan identitas aplikasi serta pengenalan singkat fitur utama D’LINE sebelum pengguna masuk ke halaman utama.
 
-3. Dashboard Utama
+3. Dashboard Utama:
 Menampilkan ringkasan aktivitas pengguna, termasuk daftar tugas yang sedang berjalan, tugas mendatang, dan notifikasi pengingat.
 
+4. Manajemen Tugas (Task Management),
+   pengguna dapat:
+   1.   Menambahkan tugas baru
+   2.   Mengedit tugas
+   3.   Menghapus tugas
+   4.   Menentukan prioritas dan tenggat waktu
+  
 
 
 
