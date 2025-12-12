@@ -31,6 +31,12 @@ Menampilkan tugas dalam bentuk kalender untuk memudahkan pengguna melihat jadwal
 7. Detail Tugas
    Menampilkan informasi lengkap terkait tugas, seperti judul, deskripsi, tanggal, waktu, dan status tugas.
 
+8. Status & Progress Tugas
+   Menandai tugas sebagai selesai atau belum selesai untuk membantu pengguna memantau progres aktivitas.
+10. Status & Progress Tugas
+   Menandai tugas sebagai selesai atau belum selesai untuk membantu pengguna memantau progres aktivitas.
+
+
 
 
 
