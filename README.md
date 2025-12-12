@@ -77,7 +77,8 @@ Gian Ivander (123140040)
 Fokus: Alur Navigasi & Struktur Halaman
 1. setup main navigation flow
 Menyusun alur navigasi utama aplikasi dari halaman awal hingga dashboard.
-
+2. connect login to dashboard
+Menghubungkan halaman login ke dashboard setelah pengguna berhasil masuk.
 
 
 
