@@ -81,6 +81,23 @@ Menyusun alur navigasi utama aplikasi dari halaman awal hingga dashboard.
 Menghubungkan halaman login ke dashboard setelah pengguna berhasil masuk.
 3. implement bottom navbar routing
 Mengatur perpindahan halaman melalui bottom navigation bar.
-
+4. add calendar page structure
+Menambahkan struktur halaman kalender untuk menampilkan jadwal tugas pusabilit
+5. link task list to task detail
+Menghubungkan daftar tugas dengan halaman detail tugas.
+6. handle add task navigation
+Mengatur alur navigasi saat pengguna menambahkan tugas baru.
+7. improve page transition flow
+Memperhalus alur perpindahan antar halaman agar lebih efisien.
+8. refactor navigation logic
+Merapikan struktur navigasi agar lebih terorganisir dan mudah dikembangkan.
+9. fix navigation bugs
+Memperbaiki bug navigasi yang menyebabkan kesalahan perpindahan halaman.
+10. optimize page hierarchy
+Mengoptimalkan hierarki halaman agar struktur aplikasi lebih jelas.
+11. update navigation documentation
+Menambahkan dokumentasi terkait alur navigasi aplikasi.
+12. final navigation flow adjustments
+Melakukan penyesuaian akhir pada alur navigasi berdasarkan hasil evaluasi.
 
 
