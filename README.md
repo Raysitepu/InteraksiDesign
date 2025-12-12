@@ -45,9 +45,9 @@ Menampilkan tugas dalam bentuk kalender untuk memudahkan pengguna melihat jadwal
    Menandai tugas sebagai selesai atau belum selesai untuk membantu pengguna memantau progres aktivitas.
 
 
-Penjelasan Detail Kinerja Pembuatan Aplikasi D'LINE
-Nahli Saud Ramdani (123140049) \n
-Fokus: UI/UX Design & High-Fidelity Prototype
+Penjelasan Detail Kinerja Pembuatan Aplikasi D'LINE <br>
+Nahli Saud Ramdani (123140049) <br>
+Fokus: UI/UX Design & High-Fidelity Prototype<br>
 1. init project structure and repository:
 pembuatan struktur awal proyek, termasuk folder desain dan file dasar sebagai pondasi pengembangan aplikasi D’LINE.
 2. add splash screen design:
