@@ -100,8 +100,11 @@ Muhammad Dzaky (123140039)
 Fokus : Pengembangan Halaman Manajemen Tugas & Perbikan Konsistensi Desain
 
 1. Setup Struktur Halaman Dasar Task Management
-Menyusun wireframe dan struktur dasar halaman Task
-
+   Menyusun wireframe dan struktur dasar halaman Task
 2. Implementasi Pengaturan Aliran Navigasi page Task
-Mengatur perpindahan halaman ke halam lain.
+   Mengatur perpindahan halaman ke halam lain.
+3. Integrasi Penanda Status/Progres
+Memastikan tampilan item tugas yang belum selesai dapat dilihat.
+4. Audit Konsistensi Ukuran Font Global
+Melakukan perbikan menyeluruh pada semua halaman untuk memastikan ukuran dan jenis font seragam dan konsisten.
 
