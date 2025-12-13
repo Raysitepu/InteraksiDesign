@@ -111,4 +111,5 @@ Fokus : Pengembangan Halaman Manajemen Tugas & Perbikan Konsistensi Desain
    Memastikan setiap navigasi memiliki ukuran, jarak, dan styling yang konsisten di semua halaman.
 6. Audit Konsistensi Ukuran Layout
    Melakukan perbaikan menyeluruh pada semua halaman untuk memastikan ukuran page sama dengan ukuran desktop.
-7.
+7. Pengujian Fungsionalitas Navigasi Dasar
+   Melakukan testing pada semua alur navigasi utama untuk mendeteksi bug perpindahan.
