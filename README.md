@@ -115,4 +115,6 @@ Fokus : Pengembangan Halaman Manajemen Tugas & Perbikan Konsistensi Desain
    Melakukan testing pada semua alur navigasi utama untuk mendeteksi bug perpindahan.
 8. Pengujian Aksesibilitas Elemen Halaman
    Menguji elemen interaktif untuk memastikan urutan yang logis dan kemampuan diakses oleh semua pengguna.
+9. Refaktor Logika Navigasi & Optimalisasi Hierarki
+   Merapikan struktur navigasi dan mengoptimalkan hierarki halaman agar User Journey pengguna menjadi lebih jelas.
 
