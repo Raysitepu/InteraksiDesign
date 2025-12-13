@@ -100,4 +100,9 @@ Menambahkan dokumentasi terkait alur navigasi aplikasi.
 12. final navigation flow adjustments
 Melakukan penyesuaian akhir pada alur navigasi berdasarkan hasil evaluasi.
 
+Muhammad Dzaky (123140039) 
+Fokus : Pengembangan Halaman Manajemen Tugas & Perbikan Konsistensi Desain
+
+1. Setup Struktur Halaman Dasar Task Management
+Menyusun wireframe dan struktur dasar halaman Task
 
