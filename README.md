@@ -19,26 +19,22 @@ Menampilkan identitas aplikasi serta pengenalan singkat fitur utama D’LINE seb
 3. Dashboard Utama:
 Menampilkan ringkasan aktivitas pengguna, termasuk daftar tugas yang sedang berjalan, tugas mendatang, dan notifikasi pengingat.
 
-4. Manajemen Tugas (Task Management),
-   pengguna dapat:
-   1.   Menambahkan tugas baru
-   2.   Mengedit tugas
-   3.   Menghapus tugas
-   4.   Menentukan prioritas dan tenggat waktu
+4. Manajemen Tugas (Task Management):
+menampilkan laporan task yang akan datang dan total keseluruhan task yang sudah dikerjakan per course yang tergabung. 
 
-  5. Reminder System:
+  6. Reminder System:
 Sistem pengingat otomatis yang membantu pengguna agar tidak melewatkan tugas penting sesuai waktu yang telah ditentukan.
 
-6. Kalender & Jadwal:
+7. Kalender & Jadwal:
 Menampilkan tugas dalam bentuk kalender untuk memudahkan pengguna melihat jadwal aktivitas secara keseluruhan.
 
-7. Detail Tugas:
-   Menampilkan informasi lengkap terkait tugas, seperti judul, deskripsi, tanggal, waktu, dan status tugas.
+8. Detail Tugas:
+   Menampilkan informasi lengkap terkait tugas, seperti judul, deskrips, tanggal, waktu, dan status tugas.
 
-8. Status & Progress Tugas:
+9. Status & Progress Tugas:
    Menandai tugas sebagai selesai atau belum selesai untuk membantu pengguna memantau progres aktivitas.
 
-9. Navigasi Bottom Navbar:
+10. Navigasi Bottom Navbar:
    Menggunakan bottom navigation bar untuk mempermudah perpindahan antar halaman utama aplikasi.
    
 11. Status & Progress Tugas:
@@ -105,4 +101,7 @@ Fokus : Pengembangan Halaman Manajemen Tugas & Perbikan Konsistensi Desain
 
 1. Setup Struktur Halaman Dasar Task Management
 Menyusun wireframe dan struktur dasar halaman Task
+
+2. Implementasi Pengaturan Aliran Navigasi page Task
+Mengatur perpindahan halaman ke halam lain.
 
