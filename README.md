@@ -113,3 +113,6 @@ Fokus : Pengembangan Halaman Manajemen Tugas & Perbikan Konsistensi Desain
    Melakukan perbaikan menyeluruh pada semua halaman untuk memastikan ukuran page sama dengan ukuran desktop.
 7. Pengujian Fungsionalitas Navigasi Dasar
    Melakukan testing pada semua alur navigasi utama untuk mendeteksi bug perpindahan.
+8. Pengujian Aksesibilitas Elemen Halaman
+   Menguji elemen interaktif untuk memastikan urutan yang logis dan kemampuan diakses oleh semua pengguna.
+
