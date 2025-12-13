@@ -106,8 +106,9 @@ Fokus : Pengembangan Halaman Manajemen Tugas & Perbikan Konsistensi Desain
 3. Integrasi Penanda Status/Progres
    Memastikan tampilan item tugas yang belum selesai dapat dilihat.
 4. Audit Konsistensi Ukuran Font Global
-   Melakukan perbikan menyeluruh pada semua halaman untuk memastikan ukuran dan jenis font seragam dan konsisten.
+   Melakukan perbaikan menyeluruh pada semua halaman untuk memastikan ukuran dan jenis font seragam dan konsisten.
 5. Verifikasi Implementasi Navbar
-   Memastikan setiap navigasi memiliki ukuran, spasi, dan styling yang konsisten di semua halaman.
-6. 
-
+   Memastikan setiap navigasi memiliki ukuran, jarak, dan styling yang konsisten di semua halaman.
+6. Audit Konsistensi Ukuran Layout
+   Melakukan perbaikan menyeluruh pada semua halaman untuk memastikan ukuran page sama dengan ukuran desktop.
+7.
